@@ -1,0 +1,28 @@
+[
+    {
+      "registrationNumber": "2221",
+      "name": "Khan",
+      "gpa": 3.4
+    },
+    {
+      "registrationNumber": "2021002",
+      "name": "Jane Smith",
+      "gpa": 3.5
+    },
+    {
+      "registrationNumber": "2021003",
+      "name": "Alice Johnson",
+      "gpa": 4.0
+    },
+    {
+      "registrationNumber": "2021004",
+      "name": "Bob Wilson",
+      "gpa": 3.2
+    },
+    {
+      "registrationNumber": "2021005",
+      "name": "Eva Davis",
+      "gpa": 3.9
+    }
+  ]
+  
